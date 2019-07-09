@@ -1,0 +1,1 @@
+alias weather='curl "http://www.wttr.in/{Bengaluru,Delhi}?0"'
